@@ -79,7 +79,7 @@ const Round = () => {
               questionCount === 10 
               ? 
                 <div>
-                  <h2>Final Score: {score}</h2>
+                  <h2>Final Score: {score} / 10</h2>
                   <button onClick={startRound}> Start a New Round </button>
                 </div> 
               :

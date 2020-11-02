@@ -16,6 +16,8 @@ This runs the app in development mode.
 
 Open http://localhost:3000 to view and interact with Trivia Trainer in your preferred browser.
 
-
-## How to Run App Tests 
-Coming soon!
+## Features to Implement 
+* Update CSS / styling
+* Unit tests 
+* Radio buttons for multiple choice selection 
+* Be able to support multiple trivia data sets 
